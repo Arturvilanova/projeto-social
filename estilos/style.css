@@ -62,3 +62,9 @@ section#redes-sociais img:hover {
 
 }
 
+@media(max-width: 600px) {
+    body {
+        background: url('https://cdn.pixabay.com/photo/2015/12/26/05/53/wood-1108307_1280.jpg') no-repeat top center;
+    }
+}
+
